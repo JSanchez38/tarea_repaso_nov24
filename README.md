@@ -1,0 +1,5 @@
+1. crear repositorio en github"
+2. Clonar repositorio"
+3. crear estructura del repo"
+4. crear gitignore"
+5. crear rama secundaria"
